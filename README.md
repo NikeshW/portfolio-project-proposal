@@ -1,31 +1,14 @@
 # Module 4 Portfolio Project Proposal
 
-## Overview
+**Topic/Idea**
+Buy Nothing! An app where users would be able to list items that they want to give away, so another user can reach out to the user who listed the item and pick up the item from them.
 
-We will soon introduce the requirements for your _Personal Portfolio Project_.
+**User Stories**
+A user would be able to see a Welcome page with a Navbar at the top. The Navbar will have the app title which will be clickable, that will take the user to the home page. The Welcome page will have a button with a text "See Listings", that will take the user to an index page.
 
-Much like in Module 2, you will have the freedom to choose the topic for your application.
+The index page will have pictures of item cards listed, that will be clickable. A user would be able to click an item picture card that will take them to the show page. The show page will display the details of that individual item. Below the details, the user will have access to following 3 buttons Back, Edit and Delete. Back button will take the user to the index page, Edit button will take the user to the edit form which will be pre-filled with the details of the current item the viewer is seeing. The user will be able to update any info of that particular item. The Delete button will help the user to delete the item from the index, after deleting the item, the user will be navigated to the index page.
 
-This time, you'll create a **Full Stack Application** using the PERN stack.
+The NavBar which will be visible on all pages will have a link with text "New Item", which is a button that user can click to open a form page. User can use a new form element to add a new item on the web page that they want to give away. After submitting the new item via new form the user will be navigated back to the index page. The user will be able to see the new item added to the index page.
 
-
-This proposal will serve as a starting point for your ideas and plans.
-
-\*\* **You must submit a proposal and receive approval from an instructor prior to working on your project.**
-
-## Proposal Requirements:
-
-The following requirements must be included in your proposal:
-
-1. **Topic/Idea** -- can be a title w/ a short description
-
-1. **3 User Stories** minimum, describing what a user can expect to see/do when using your application
-
-1. **Wireframes** -- a lo-fidelity visual representation of your front-end using whatever tools you choose. (even pencil and paper)
-
-1. **ERD** for your back-end. Only **one** table is required, but you must add all columns that are expected for each entry to your table(what info does an entry have?)
-_For example: a user may have id, name, email, phone_
-
-Your proposal is to be submitted AFTER the Portfolio Project Requirements and Repo have been shared with you in class. 
-
-Please submit your proposal in a **group message with JD && Carlos** via Slack.
+**Wireframes** & **ERD**
+[Wireframes & ERD](/Users/nikeshwankhade/9.1/module-four-class/portfolio-project-proposal/frontend_portfolio_wireframe_ERD.png)
