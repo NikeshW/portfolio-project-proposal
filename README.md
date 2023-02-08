@@ -11,4 +11,4 @@ The index page will have pictures of item cards listed, that will be clickable. 
 The NavBar which will be visible on all pages will have a link with text "New Item", which is a button that user can click to open a form page. User can use a new form element to add a new item on the web page that they want to give away. After submitting the new item via new form the user will be navigated back to the index page. The user will be able to see the new item added to the index page.
 
 **Wireframes** & **ERD**
-[Wireframes & ERD](/Users/nikeshwankhade/9.1/module-four-class/portfolio-project-proposal/frontend_portfolio_wireframe_ERD.png)
+[Wireframes & ERD](https://github.com/NikeshW/portfolio-project-proposal/blob/main/frontend_portfolio_wireframe_ERD.png)
